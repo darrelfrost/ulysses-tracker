@@ -1,0 +1,18 @@
+[
+  {
+    "yesterday_total": 137287,
+    "today_total": 137581,
+    "gross_words_added": 294,
+    "net_change": 294,
+    "date": "2025-08-08",
+    "compared_to": "2025-08-07"
+  },
+  {
+    "yesterday_total": 137581,
+    "today_total": 138103,
+    "gross_words_added": 522,
+    "net_change": 522,
+    "date": "2025-08-12",
+    "compared_to": "2025-08-08"
+  }
+]
