@@ -1,34 +1,31 @@
 [
   {
-    "yesterday_total": 137287,
-    "today_total": 137581,
-    "gross_words_added": 294,
-    "net_change": 294,
-    "date": "2025-08-08",
-    "compared_to": "2025-08-07"
+    "writing_date": "2025-08-07",
+    "word_count": 137287,
+    "words_written": 0,
+    "previous_date": null,
+    "previous_count": null,
+    "note": "Reconstructed from old data"
   },
   {
-    "yesterday_total": 137581,
-    "today_total": 138331,
-    "gross_words_added": 750,
-    "net_change": 750,
-    "date": "2025-08-11",
-    "compared_to": "2025-08-08"
+    "writing_date": "2025-08-08",
+    "word_count": 137581,
+    "words_written": 294,
+    "previous_date": "2025-08-07",
+    "previous_count": 137287
   },
   {
-    "yesterday_total": 138331,
-    "today_total": 138331,
-    "gross_words_added": 0,
-    "net_change": 0,
-    "date": "2025-08-13",
-    "compared_to": "2025-08-11"
+    "writing_date": "2025-08-11",
+    "word_count": 138331,
+    "words_written": 750,
+    "previous_date": "2025-08-08",
+    "previous_count": 137581
   },
   {
-    "yesterday_total": 138331,
-    "today_total": 138331,
-    "gross_words_added": 0,
-    "net_change": 0,
-    "date": "2025-08-12",
-    "compared_to": "2025-08-12"
+    "writing_date": "2025-08-12",
+    "word_count": 138834,
+    "words_written": 503,
+    "previous_date": "2025-08-11",
+    "previous_count": 138331
   }
 ]
