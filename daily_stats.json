@@ -22,5 +22,13 @@
     "net_change": 0,
     "date": "2025-08-13",
     "compared_to": "2025-08-11"
+  },
+  {
+    "yesterday_total": 138331,
+    "today_total": 138331,
+    "gross_words_added": 0,
+    "net_change": 0,
+    "date": "2025-08-12",
+    "compared_to": "2025-08-12"
   }
 ]
