@@ -839,5 +839,19 @@
     "words_written": 0,
     "previous_date": "2025-12-19",
     "previous_count": 64666
+  },
+  {
+    "writing_date": "2025-12-21",
+    "word_count": 63399,
+    "words_written": 0,
+    "previous_date": "2025-12-20",
+    "previous_count": 63399
+  },
+  {
+    "writing_date": "2025-12-22",
+    "word_count": 63624,
+    "words_written": 225,
+    "previous_date": "2025-12-21",
+    "previous_count": 63399
   }
 ]
