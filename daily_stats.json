@@ -853,5 +853,47 @@
     "words_written": 225,
     "previous_date": "2025-12-21",
     "previous_count": 63399
+  },
+  {
+    "writing_date": "2025-12-23",
+    "word_count": 63874,
+    "words_written": 250,
+    "previous_date": "2025-12-22",
+    "previous_count": 63624
+  },
+  {
+    "writing_date": "2025-12-24",
+    "word_count": 63874,
+    "words_written": 0,
+    "previous_date": "2025-12-23",
+    "previous_count": 63874
+  },
+  {
+    "writing_date": "2025-12-25",
+    "word_count": 63874,
+    "words_written": 0,
+    "previous_date": "2025-12-24",
+    "previous_count": 63874
+  },
+  {
+    "writing_date": "2025-12-26",
+    "word_count": 64239,
+    "words_written": 365,
+    "previous_date": "2025-12-25",
+    "previous_count": 63874
+  },
+  {
+    "writing_date": "2025-12-27",
+    "word_count": 64239,
+    "words_written": 0,
+    "previous_date": "2025-12-26",
+    "previous_count": 64239
+  },
+  {
+    "writing_date": "2025-12-28",
+    "word_count": 66114,
+    "words_written": 1875,
+    "previous_date": "2025-12-27",
+    "previous_count": 64239
   }
 ]
