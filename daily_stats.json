@@ -916,5 +916,19 @@
     "words_written": 0,
     "previous_date": "2025-12-30",
     "previous_count": 66386
+  },
+  {
+    "writing_date": "2026-01-01",
+    "word_count": 66347,
+    "words_written": 15,
+    "previous_date": "2025-12-31",
+    "previous_count": 66332
+  },
+  {
+    "writing_date": "2026-01-02",
+    "word_count": 66347,
+    "words_written": 0,
+    "previous_date": "2026-01-01",
+    "previous_count": 66347
   }
 ]
