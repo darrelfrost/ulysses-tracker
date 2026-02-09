@@ -1037,38 +1037,11 @@
     "previous_count": 73794
   },
   {
-    "writing_date": "2026-01-18",
-    "word_count": 73857,
-    "words_written": 63,
-    "previous_date": "2026-01-17",
-    "previous_count": 73794
-  },
-  {
-    "writing_date": "2026-01-20",
-    "word_count": 73857,
+    "writing_date": "2026-02-08",
+    "word_count": 73783,
     "words_written": 0,
-    "previous_date": "2026-01-18",
-    "previous_count": 73857
-  },
-  {
-    "writing_date": "2026-01-21",
-    "word_count": 73857,
-    "words_written": 0,
-    "previous_date": "2026-01-20",
-    "previous_count": 73857
-  },
-  {
-    "writing_date": "2026-01-22",
-    "word_count": 73857,
-    "words_written": 0,
-    "previous_date": "2026-01-21",
-    "previous_count": 73857
-  },
-  {
-    "writing_date": "2026-01-23",
-    "word_count": 73857,
-    "words_written": 0,
-    "previous_date": "2026-01-22",
-    "previous_count": 73857
+    "previous_date": null,
+    "previous_count": null,
+    "note": "Initial snapshot"
   }
 ]
